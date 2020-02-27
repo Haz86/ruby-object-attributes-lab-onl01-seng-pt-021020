@@ -16,5 +16,7 @@ end
     
     @breed = breed
     
-    
+    def breed
+      
+      @breed
   
