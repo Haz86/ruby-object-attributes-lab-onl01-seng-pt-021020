@@ -12,5 +12,9 @@ end
  end
     
     
-  def RUBY_RELEASE_DATE
+  def breed = (breed)
+    
+    @breed = breed
+    
+    
   
