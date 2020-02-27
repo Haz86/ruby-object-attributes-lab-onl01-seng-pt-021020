@@ -12,15 +12,15 @@ end
  end
     
     
-  def person = (breed)
+  def job = (job)
     
-    @breed = breed
+    @job = job
   end
   
   
-    def breed
+    def job
       
-      @breed = breed
+      @job = job
     end
     
   end
